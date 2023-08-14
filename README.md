@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building my skills in Open Source**
 
-- 🌱 I’m currently learning **Open Source and DSA**
+- 🌱 I’m currently learning **Devops and DSA**
 
 - 📫 How to reach me **aaronsunilg@gmail.com**
 
